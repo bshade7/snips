@@ -74,6 +74,7 @@ I have included some basics to get you started. Please feel free to share any us
 * Add CTRL+N hotlink to easily create a new snippet under a category (undecided)
 * Improve UI [Auto height, better layout & colors, theming?]
 * Add more default snippets
+* Add placeholder substitutions [Current date, Name, email address, etc.]
 
 ## Warranty and Support
 
